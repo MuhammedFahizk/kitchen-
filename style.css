@@ -24,10 +24,14 @@ h2 .col-3,.mt-5{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 section .bdtran{
-   background-color: #1b1a1a;
-   backdrop-filter: blur(8px);
+   background-color: #ffffff27;
+   /* backdrop-filter: blur(8px); */
 
 }
 .home{
     background-color: rgb(106, 247, 5) ;
+}
+a{
+    text-decoration: none;
+    t
 }
